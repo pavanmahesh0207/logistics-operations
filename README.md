@@ -21,6 +21,7 @@ docker-compose up --build
 ```
 
 The API is available at `http://localhost:8000`.
+Fast API docs avilable `http://localhost:8000\docs`.
 Neo4j browser: `http://localhost:7474` (user: `neo4j`, password: `logistics123`).
 
 ### Option B — Local Python (requires running Postgres + Neo4j separately)
